@@ -4,7 +4,7 @@ import java.io.*;
 *Class containing attributes of a couple.
 *@author Shyam Kotecha
 */
-class couples{
+public class couples{
 	public String gf_name;
 	public String bf_name;
 	public int id;
