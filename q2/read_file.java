@@ -4,7 +4,7 @@ import java.io.*;
 *Class to read from files containing data of girls, boys & gifts.
 *@author Shyam Kotecha
 */
-class read_file {
+public class read_file {
 	public boy Boys[] = new boy[20];
 	public girl Girls[] = new girl[10];
 	public ArrayList<gift> Gifts = new ArrayList<>();
