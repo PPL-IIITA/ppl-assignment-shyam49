@@ -13,7 +13,7 @@ Tested on :
 System OS on which build was tested :  Ubuntu 16.04.1 LTS
  
  
-Compile/build q1 :
+Compile/build q1 using command-line:
 
                     javac boy.java girl.java random_gen.java  testing_utility.java
                     
@@ -23,7 +23,7 @@ Compile/build q1 :
                     
                     java q1
                 
-Compile/build q2 :
+Compile/build q2 using command-line:
 
                     javac boy.java girl.java gift.java random_gen.java testing_utility.java
                     
