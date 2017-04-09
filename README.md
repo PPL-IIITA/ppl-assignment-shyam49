@@ -2,6 +2,10 @@ ppl-assignment-shyam49 created by GitHub Classroom
 
 Assignment submitted by  IIT2015144 (SHYAM KOTECHA)
 
+Language used : 
+
+                        java
+
 Tested on :
             
             java version "1.7.0_80"
@@ -21,7 +25,7 @@ System OS on which build was tested :  Ubuntu 16.04.1 LTS
   
   To generate Documentation for Q3 :
                      
-                     Download the Doxyfile and type the command doxygen.
+                     Download the Doxyfile in same folder of the question with other classes and type the command doxygen.
              
 
 Compile/build Q4 using command-line :
@@ -30,7 +34,7 @@ Compile/build Q4 using command-line :
   
   To generate Documentation for Q4 :
                      
-                     Download the Doxyfile and type the command doxygen.
+                     Download the Doxyfile in same folder of the question with other classes and type the command doxygen.
                      
  
  Compile/build Q5 using command-line :
@@ -39,7 +43,7 @@ Compile/build Q4 using command-line :
   
   To generate Documentation for Q5 :
                      
-                     Download the Doxyfile and type the command doxygen.
+                     Download the Doxyfile in same folder of the question with other classes and type the command doxygen.
                      
                      
                      
@@ -49,7 +53,7 @@ Compile/build Q4 using command-line :
   
   To generate Documentation for Q6 :
                      
-                     Download the Doxyfile and type the command doxygen. 
+                     Download the Doxyfile in same folder of the question with other classes and type the command doxygen.
                      
                      
                      
