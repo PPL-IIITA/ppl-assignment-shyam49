@@ -14,30 +14,7 @@ System OS on which build was tested :  Ubuntu 16.04.1 LTS
  
  Software used to generate Documentation : doxygen
  
-Compile/build q1 using command-line:
 
-                    javac boy.java girl.java random_gen.java  testing_utility.java
-                    
-                    java random_gen
-                    
-                    javac q1.java read_file.java
-                    
-                    java q1
-                
-Compile/build q2 using command-line:
-
-                    javac boy.java girl.java gift.java random_gen.java testing_utility.java
-                    
-                    java random_gen
-                    
-                    javac read_file.java aux.java q2.java couples.java couple_gen.java
-                    
-                    java q2
-                    
-                    
-                    in this you will have to give 'k' as user input
-     
-     
  Compile/build Q3 using command-line :
                     
                     bash run.sh
