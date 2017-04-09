@@ -56,8 +56,8 @@ Compile/build Q4 using command-line :
                      
                      
   
-  
-  To see the documentation, go to the DOCUMENTATION_FINAL folder in each question and open the index.html file.
+  <h1>Documentation</h1>
+  To see the documentation, go to the DOCUMENTATION_FINAL folder in each question folder and open the index.html file.
   
   <h1>Class Diagrams</h1>
-  Class diagrmas are included in each question folder.
+  Class diagrams are included in each question folder.
