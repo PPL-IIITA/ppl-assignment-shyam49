@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['g_5fattract',['g_attract',['../classcouples.html#aefb5fec9ea089430c0d9ce1c289136b9',1,'couples']]],
+  ['g_5fintelligence',['g_intelligence',['../classcouples.html#a9ea59212c0b03c0cdac396569b07f36a',1,'couples']]],
+  ['g_5fmaintenance',['g_maintenance',['../classcouples.html#a0b98fd3d435f3d9a8828a32b68c61692',1,'couples']]],
+  ['g_5fname',['g_name',['../classgift.html#a0e3f149b6fa099fb98413f04c22393be',1,'gift']]],
+  ['gc',['gc',['../classread__file.html#a5023478677fb0f666070423f06083f8b',1,'read_file']]],
+  ['gd',['gd',['../classread__file.html#a48402ecb572f5cffbbe175dabcda50ed',1,'read_file']]],
+  ['gf_5fname',['gf_name',['../classcouples.html#abd32fa4a2c8b6cc1603eeee21c41efbe',1,'couples']]],
+  ['gf_5ftype',['gf_type',['../classcouples.html#a25db775f21d5c8ef79ba707f2b797048',1,'couples']]],
+  ['gifts',['Gifts',['../classread__file.html#a594769c0e0bcb245daef0d2a46aa23de',1,'read_file']]],
+  ['giftse',['Giftse',['../classread__file.html#a288fd4dc57d64b03ae122bd299a476cb',1,'read_file.Giftse()'],['../classtesting__utility.html#a34762385404994db7b639db2a5f3b2fe',1,'testing_utility.Giftse()']]],
+  ['giftsl',['Giftsl',['../classread__file.html#ac787e037251eabc34035b55ca1700bf2',1,'read_file.Giftsl()'],['../classtesting__utility.html#a95f10729ace5e3f288832c6e54ccacb7',1,'testing_utility.Giftsl()']]],
+  ['giftsu',['Giftsu',['../classread__file.html#a09bc91df7f3ff90731e43f1c1e05ec87',1,'read_file.Giftsu()'],['../classtesting__utility.html#a71b1ba9c080f1cc4f380619f07ccbfce',1,'testing_utility.Giftsu()']]],
+  ['girls',['Girls',['../classread__file.html#ad44ffc9ea7ecf436cdd927d27ae7f73a',1,'read_file']]],
+  ['girlsc',['Girlsc',['../classread__file.html#a9463a885fc5cfb19a1654594bf26dcfd',1,'read_file.Girlsc()'],['../classtesting__utility.html#aae8291645f9ffa4519601b35ab795253',1,'testing_utility.Girlsc()']]],
+  ['girlsd',['Girlsd',['../classread__file.html#ad3589659b1a260f40f11fc0ed55dbacd',1,'read_file.Girlsd()'],['../classtesting__utility.html#a7c45329f794c9350cac291f0c486e665',1,'testing_utility.Girlsd()']]],
+  ['girlsn',['Girlsn',['../classread__file.html#a58ae30cfa1503b4fb3fc34aefb3da891',1,'read_file.Girlsn()'],['../classtesting__utility.html#a8c708da3836ed344b171586123c450f0',1,'testing_utility.Girlsn()']]],
+  ['gn',['gn',['../classread__file.html#a5890627ec0f1407d1311c4f9dfcbf5dc',1,'read_file']]]
+];
