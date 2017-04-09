@@ -2,9 +2,7 @@ ppl-assignment-shyam49 created by GitHub Classroom
 
 Assignment submitted by  IIT2015144 (SHYAM KOTECHA)
 
-Language used : 
-
-                        java
+Language used : Java
 
 Tested on :
             
@@ -60,3 +58,6 @@ Compile/build Q4 using command-line :
   
   
   To see the documentation, go to the DOCUMENTATION_FINAL folder in each question and open the index.html file.
+  
+  <h1>Class Diagrams</h1>
+  Class diagrmas are included in each question folder.
