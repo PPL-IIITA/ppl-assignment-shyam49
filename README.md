@@ -72,4 +72,10 @@ Compile/build Q4 using command-line :
   
   To generate Documentation for Q6 :
                      
-                     Download the Doxyfile and type the command doxygen.                   
+                     Download the Doxyfile and type the command doxygen. 
+                     
+                     
+                     
+  
+  
+  To see the documentation, go to the DOCUMENTATION_FINAL folder in each question and open the index.html file.
