@@ -1,0 +1,67 @@
+/**
+*Class to store attributes of boy
+*@author Shyam Kotecha
+*/
+public class boy {
+
+	public String name; // name of boy
+	public int intelligence; // intelligence level of boy
+	public int budget; // budget of boy
+	public int attractiveness; // attractiveness value of boy
+	public int min_att_req; // minimum attractiveness of girl required by boy
+	public String status; // status of boy
+	/**
+	* Constructor to initialize the attributes.
+	*/
+	boy(String name,int intelligence,int attractiveness,int budget,int m,String st) {
+		this.name = name;
+		this.intelligence = intelligence;
+		this.attractiveness = attractiveness;
+		this.budget = budget;
+		this.min_att_req = m;
+		this.status = st;
+	}	
+	/**
+	* To set status of boy
+	*/
+	public void set_st(String s) {
+		status = s;
+	}
+	
+	/**
+	* To get the name of boy
+	*/
+	public String getname() {
+		return name;
+	}
+	/**
+	* To get intelligence of boy
+	*/
+	public int get_intelligence() {
+		return intelligence;
+	}
+	/**
+	* To get budget of boy
+	*/
+	public int get_budget() {
+		return budget;
+	}
+	/**
+	* To get attractiveness of boy
+	*/
+	public int get_attractiveness() {
+		return attractiveness;
+	}
+	/**
+	* To get minimum attractiveness of girl required by the boy
+	*/
+	public int get_min() {
+		return min_att_req;
+	}
+	/**
+	* To get status of boy
+	*/
+	public String get_st() {
+		return status;
+	}
+}
